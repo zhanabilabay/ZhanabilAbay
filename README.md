@@ -1,16 +1,14 @@
-### Hi there 👋
+### 👋🏽 Hey, I'm Zhanabil
+Developer from Kazakhstan, and I'm passionate about creating mobile applications.
 
-<!--
-**zhanabilabay/zhanabilabay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+For prompt communication, reach out to me via [email](mailto:zhanabilabay@gmail.com).
 
-Here are some ideas to get you started:
+### 📦 Toolbox
+- Mobile Development: iOS, Flutter.
+- Version Control: GitHub, GitLab, Bitbucket.
+- Others: Jira, Postman, Confluence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ Fun Facts
+- I like to play tennis.
+- Bleach is my favorite anime.
+- As a kid, I wanted to be an e-sportsman.
