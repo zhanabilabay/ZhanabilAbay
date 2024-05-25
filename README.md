@@ -1,12 +1,12 @@
 ### 👋🏽 Hey, I'm Zhanabil
 Developer from Kazakhstan, and I'm passionate about creating mobile applications.
 
-For prompt communication, reach out to me via [email](mailto:zhanabilabay@gmail.com).
+For prompt communication, reach out to me via [`email`](mailto:zhanabilabay@gmail.com).
 
 ### 📦 Toolbox
-- Mobile Development: iOS, Flutter.
-- Version Control: GitHub, GitLab, Bitbucket.
-- Others: Jira, Postman, Confluence.
+- Mobile Development: `iOS` `Flutter`
+- Version Control: `GitHub` `GitLab` `Bitbucket`
+- Others: `Jira` `Postman` `Confluence`
 
 ### ✨ Fun Facts
 - I like to play tennis.
